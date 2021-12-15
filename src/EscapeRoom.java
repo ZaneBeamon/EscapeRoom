@@ -35,8 +35,7 @@ public class EscapeRoom {
         No.setBounds(50, 70, 200, 30);
         Speak.setBounds(50, 130, 200, 30);
 
-        radio.add(Yes);
-        radio.add(No);
+
 
         panel.add(Yes);
         panel.add(No);
